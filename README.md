@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██████╗  █████╗ ██╗   ██╗███████╗███████╗███████╗
-██╔══██╗██╔══██╗╚██╗ ██╔╝██╔════╝██╔════╝██╔════╝
-██████╔╝███████║ ╚████╔╝ █████╗  █████╗  ███████╗
-██╔══██╗██╔══██║  ╚██╔╝  ██╔══╝  ██╔══╝  ╚════██║
-██║  ██║██║  ██║   ██║   ███████╗███████╗███████║
-╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝╚══════╝
-```
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;Cloud+Explorer+%7C+AWS+Enthusiast+%E2%98%81%EF%B8%8F;Google+Arcade+Champion+%F0%9F%8F%86;Open+Source+Contributor+%F0%9F%8C%90;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
